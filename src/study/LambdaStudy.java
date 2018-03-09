@@ -8,7 +8,6 @@ public class LambdaStudy {
 	}
 	
 	public static void simpleTest(){
-		System.out.print("test");
 	}
 
 }
