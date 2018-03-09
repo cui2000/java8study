@@ -8,6 +8,7 @@ public class LambdaStudy {
 	}
 	
 	public static void simpleTest(){
+		
 	}
 
 }
