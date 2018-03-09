@@ -6,5 +6,9 @@ public class LambdaStudy {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void simpleTest(){
+		System.out.print("test");
+	}
 
 }
